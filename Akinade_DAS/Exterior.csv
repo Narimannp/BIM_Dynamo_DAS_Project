@@ -1,0 +1,21 @@
+DAS_Window_Double hung_Vinyl_Exterior,E_Wi_DH_V,66,Mortar,0.0,1.0,1,0.0,1,1,1,1
+DAS_Window_Double hung_Aluminium_Exterior,E_Wi_DH_A,66,Mortar,0.0,1.0,1,0.0,1,1,1,1
+DAS_Window_Double hung_Wood_Exterior,E_Wi_D_W,66,Mortar,0.0,1.0,1,0.0,0,1,1,1
+DAS_Door_DOUBLEDOOR_Vinyl_Exterior,E_D_D_V,14,Mortar,0.0,1.0,1,0.0,1,1,1,1
+DAS_Door_DOUBLEDOOR_Aluminium_Exterior,E_D_D_A,14,Mortar,0.0,1.0,1,0.0,1,1,1,1
+DAS_Door_SINGLEDOOR_ Aluminium_Exterior,E_D_S_A,14,Mortar,0.0,1.0,1,0.0,1,1,1,1
+DAS_Door_SINGLEDOOR_Wood_Exterior,E_D_S_W,14,Mortar,0.0,1.0,1,0.0,0,1,1,1
+DAS_Door_DOUBLEDOOR_Wood_Exterior,E_D_D_W,14,Mortar,0.0,1.0,1,0.0,0,1,1,1
+DAS_Door_SINGLEDOOR_Vinyl_Exterior,E_D_S_V,14,Mortar,0.0,1.0,1,0.0,1,1,1,1
+DAS_Cladding_FiberCement_Exterior,E_Cl_FC,763,Nailed,0.0,1.0,1,0.0,1,1,1,1
+DAS_Cladding_TerraCotta_Exterior,E_Cl_TC,763,Dowel,1.0,1.0,1,0.0,1,1,1,1
+DAS_Cladding_Aluminium_Exterior,E_Cl_A,763,Dowel,1.0,1.0,1,0.0,1,1,1,1
+DAS_Cladding_Wood_Exterior,E_Cl_W,763,Nailed,0.0,1.0,1,0.0,0,1,1,1
+DAS_Cladding_Zinc_Exterior,E_Cl_Z,763,Nailed,0.0,1.0,1,0.0,0,1,1,1
+DAS_Insulation_Rockwool_Exterior,E_In_RW,763,Dowel,1.0,1.0,0,1.0,0,1,1,1
+DAS_Insulation_XPS_Exterior,E_In_XP,763,Fixed,0.0,1.0,1,1.0,1,1,1,1
+DAS_Insulation_Fibreglassbatt_Exterior,E_In_FG,763,Dowel,1.0,1.0,0,1.0,0,1,0,0
+DAS_Stud_Steel_Exterior,E_St_S,763,Bolted,1.0,1.0,0,0.0,1,1,1,1
+DAS_Stud_wood_Exterior,E_St_W,763,Nailed,0.0,1.0,0,0.0,0,1,1,1
+DAS_Sheathing_OSBWood_Exterior,E_Sh_OW,1526,Nailed,0.0,1.0,0,0.0,0,0,1,1
+DAS_Sheathing_GypsumWallBoard_Exterior,E_Sh_G,1526,Screwed,1.0,1.0,0,0.0,0,0,1,1

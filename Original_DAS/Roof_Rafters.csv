@@ -1,0 +1,10 @@
+DAS_RoofCover_SlateShingles_RigidInsulation_PlywoodSheathing_Roof,R_RC_S_R_P,22361.89472,Fixed,0,0.1,0,0.8,,0,,,1,1,1,1,0,1,1,1,1
+DAS_RoofCover_MetalPanel_Rockwoolinsulation_ PlywoodSheathing_Roof,R_RC_M_RW_P,22361.89472,Nailed,0.2,0.1,0,0.8,,0,,,1,1,1,1,0,1,1,0,1
+DAS_RoofCover_AsphaltShingle_RockwoolInsulation_PlywoodSheathing_Roof,R_RC_A_RW_P,22361.89472,Fixed,0,0.1,0,0.8,,0,,,1,0,1,1,0,1,1,0,1
+DAS_RoofCover_MetalPanel_RigidInsulation_PlywoodSheathing_Roof,R_RC_M_R_P,22361.89472,Fixed,0,0.1,0,0.8,,0,,,1,1,1,1,0,1,1,1,1
+DAS_RoofCover_SlateShingels_Rockwoolinsulation_PlywoodSheathing_Roof,R_RC_S_RW_P,22361.89472,Nailed,0.2,0.1,0,0.8,,0,,,1,1,1,1,0,1,1,0,1
+DAS_RoofCover_AsphaltShingle_RigidInsulation_PlywoodSheathing_Roof,R_RC_A_R_P,22361.89472,Fixed,0,0.1,0,0.8,,0,,,1,0,1,1,0,1,1,1,1
+DAS_Rafters_Beam_Steel_Roof,R_Ra_S,12754.91321,Welded,0,0.1,0,0.5,1,0,0,1,,,,,,,,,
+DAS_Rafters_Beam_Wood_Roof,R_Ra_W,12754.91321,Nailed,0.2,0.1,0,0.8,0,0,0,1,,,,,,,,,
+DAS_Truss_Steel_Roof,R_Tr_S,12073.97697,Nailed,0.2,0.1,1,0.8,1,0,1,1,,,,,,,,,
+DAS_Truss_Wood_Roof,R_Tr_W,12073.97697,Nailed,0.2,0.1,1,0.8,0,0,1,1,,,,,,,,,

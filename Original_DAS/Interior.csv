@@ -1,0 +1,17 @@
+DAS_Door_SINGLEDOOR_Aluminium_Interior,I_D_S_A,76.0,PU foam,0.4,1.0,1,0.9,1,1,1,1
+DAS_Door_SINGLEDOOR_Wood_Interior,I_D_S_W,76.0,PU foam,0.4,1.0,1,0.9,0,1,1,1
+DAS_Door_DOUBLEDOOR_Wood_Interior,I_D_D_W,76.0,PU foam,0.4,0.9,1,0.9,0,1,1,1
+DAS_Door_DOUBLEDOOR_Aluminum_Interior,I_D_D_A,76.0,PU foam,0.4,0.9,1,0.9,1,1,1,1
+DAS_Door_SINGLEDOOR_Glass_Interior,I_D_S_G,76.0,PU foam,0.4,1.0,1,0.9,0,1,1,1
+DAS_Door_DOUBLEDOOR_Glass Wood_Interior,I_D_D_GW,76.0,PU foam,0.4,0.9,1,0.9,0,1,1,1
+DAS_Wall_Masonry Blocks with Plaster and Paint Finish_Interior,I_W_M_P_,2710.691796913419,Mortar,0.0,0.7,0,0.8,0,0,1,1,0,0
+DAS_Wall_Double sided painted gypsum board_WoodStud_ Interior,I_W_2G_P_WS,2710.691796913419,Screwed,0.8,0.9,0,0.8,0,1,1,1,1,0
+DAS_Wall_Double sided wood panel_WoodStud_Interior,I_W_2W_ _WS,2710.691796913419,Screwed,0.8,0.9,0,0.8,0,1,1,1,1,0
+DAS_Wall_Pre-Fabricated Wall_Interior,I_W_PF_ _ ,2710.691796913419,Dowel,1.0,0.9,1,0.9,1,1,1,1,1,1
+DAS_Wall_Glass Parttion_Interior,I_W_GL_2_,2710.691796913419,Fixed,0.0,0.4,1,0.9,0,1,1,0,1,0
+DAS_Wall_Double sided painted gypsum board_SteelStud_Interior,I_W_2G_P_SS,2710.691796913419,Screwed,0.8,0.9,0,0.8,1,1,1,1,1,0
+DAS_Wall_Double sided wood panel_SteelStud_Interior,I_W_2W_ _SS,2710.691796913419,Screwed,0.8,0.9,0,0.8,1,1,1,1,1,0
+DAS_Wall_Double sided gypsum board & ceramic_WoodStud_Interior,I_W_2G_C_WS,2710.691796913419,Screwed,0.8,0.9,0,0.8,0,0,1,1,0,0
+DAS_Wall_Double sided gypsum board & ceramic_SteelStud_Interior,I_W_2G_C_SS,2710.691796913419,Screwed,0.8,0.9,0,0.8,1,0,1,1,0,0
+DAS_Runner_BottomRunner_Interior,I_RB,680.2777221060333,Nailed,0.2,1.0,0,0.9,0,1,1,1
+DAS_Runner_TopRunner_Interior,I_RT,680.2777221060333,Nailed,0.2,1.0,0,0.9,0,1,1,1

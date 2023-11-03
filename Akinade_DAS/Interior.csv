@@ -1,0 +1,17 @@
+"Family Type: DAS_Door_SINGLEDOOR_Aluminium_Interior, Family: T12 - Doors_Swing_Strugal_Aluminium-Doors",I_D_S_A,76.0,PU foam,0.0,1.0,1,1.0,1,1,1,1
+"Family Type: DAS_Door_SINGLEDOOR_Wood_Interior, Family: Interior Door",I_D_S_W,76.0,PU foam,0.0,1.0,1,1.0,0,1,1,1
+"Family Type: DAS_Door_DOUBLEDOOR_Wood_Interior, Family: Door-Interior-Double-Pocket-2_Panel-Wood",I_D_D_W,76.0,PU foam,0.0,1.0,1,1.0,0,1,1,1
+"Family Type: DAS_Door_DOUBLEDOOR_Aluminum_Interior, Family: Door_Swing-Double-SaftiFirst-GPX-Aluminum-20Min_Interior",I_D_D_A,76.0,PU foam,0.0,1.0,1,1.0,1,1,1,1
+"Family Type: DAS_Door_SINGLEDOOR_Glass_Interior, Family: Door-Screen-PCA_Products-Still_Waters_A-110-Inswing",I_D_S_G,76.0,PU foam,0.0,1.0,1,1.0,0,1,1,1
+"Family Type: DAS_Door_DOUBLEDOOR_Glass Wood_Interior, Family: Door-Interior-Double-Full Glass-Wood",I_D_D_GW,76.0,PU foam,0.0,1.0,1,1.0,0,1,1,1
+WallType,I_W_M_P_,195,,,,,,,,,,Fixed,0.0,1.0,0,0.0,0,0,1,1,Fixed,0.0,1.0,0,1.0,0,0,1,0
+WallType,I_W_2G_P_WS,195,,,,,,,,,,Nailed,0.0,1.0,0,0.0,0,1,1,1,Nailed,0.0,1.0,0,0.0,0,0,1,1
+WallType,I_W_2W_ _WS,195,,,,,,,,,,Nailed,0.0,1.0,0,0.0,0,1,1,1,Dowel,1.0,1.0,0,0.0,0,0,1,1
+WallType,I_W_PF_ _ ,195,,,,,,,,,,Screwed,1.0,0.0,1,0.0,1,1,1,1,Screwed,1.0,0.0,1,0.0,1,1,1,1
+WallType,I_W_GL_2_,195,,,,,,,,,,Screwed,1.0,1.0,0,0.0,0,1,1,1,Dowel,1.0,0.0,1,1.0,0,1,1,1
+WallType,I_W_2G_P_SS,195,,,,,,,,,,Screwed,1.0,1.0,0,0.0,1,1,1,1,Screwed,1.0,1.0,0,0.0,0,0,1,1
+WallType,I_W_2W_ _SS,195,,,,,,,,,,Screwed,1.0,1.0,0,0.0,1,1,1,1,Dowel,1.0,1.0,0,0.0,0,0,1,1
+WallType,I_W_2G_C_WS,195,,,,,,,,,,Nailed,0.0,1.0,0,0.0,0,1,1,1,Nailed,0.0,1.0,0,0.0,0,0,1,0
+WallType,I_W_2G_C_SS,195,,,,,,,,,,Screwed,1.0,1.0,0,0.0,1,1,1,1,Screwed,1.0,1.0,0,0.0,0,0,1,0
+"Family Type: DAS_Runner_BottomRunner_Interior, Family: Framing-Column-ClarkDietrich-SFIA-T-Horizontal1",I_RB,195,Nailed,0.0,1.0,0,1.0,0,1,1,1
+"Family Type: DAS_Runner_TopRunner_Interior, Family: Framing-Column-ClarkDietrich-SFIA-T-Horizontal top",I_RT,195,Nailed,0.0,1.0,0,1.0,0,1,1,1

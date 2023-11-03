@@ -1,0 +1,10 @@
+DAS_Cover_RoofCover_MetalPanel,R_C_MP,2,Screwed,1,1,0,0,1,1,1,1
+DAS_Cover_RoofCover_SlateShingels,R_C_SS,2,Nailed,0,1,0,1,1,1,1,1
+DAS_Cover_RoofCover_AsphaltShingle,R_C_Ash,2,Nailed,0,1,0,0,0,1,1,1
+DAS_Insulation_RigidInsulation,R_I_R,100,Fixed,0,1,0,1,0,0,1,1
+DAS_Insulation_RockwoolInsulation,R_I_RW,100,Dowel,1,1,0,1,0,1,1,1
+DAS_Sheathing_PlywoodSheathing,R_Sh_P,958,Screwed,1,1,0,0,0,0,1,1
+DAS_Rafters_Beam_Steel_Roof,R_Ra_S,396,Screwed,1,0,0,0,1,0,1,1
+DAS_Rafters_Beam_Wood_Roof,R_Ra_W,396,Nailed,0,0,0,0,0,1,1,1
+DAS_Truss_Steel_Roof,R_Ra_Tr_S,50,Screwed,1,0,1,0,1,0,1,1
+DAS_Truss_Wood_Roof,R_Ra_Tr_W,50,Nailed,0,0,1,0,0,1,1,1

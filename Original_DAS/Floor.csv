@@ -1,0 +1,14 @@
+DAS_GroundFloorStructure_ConcreteSlab_Flooring,F_GS_CS,2788.3958885741463,Fixed,0.0,0.4,0,0.2,0,0,1,1
+DAS_FloorStructure_ConcreteSlab_Flooring,F_S_CS,2376.3735761596226,Fixed,0.0,0.4,0,0.2,0,0,1,1
+DAS_FloorStructure_WoodenSlab_Flooring,F_S_WS,2376.3735761596226,Nailed,0.2,0.4,0,0.8,0,0,1,1
+DAS_FloorFinishing_VinylCompositionTile_Flooring,F_F_VC,5164.7694647337685,Fixed,0.0,1.0,0,0.8,0,1,1,1
+DAS_FloorFinishing_PorcelainTile_Flooring,F_F_PT,5164.7694647337685,Fixed,0.0,0.9,0,0.8,0,1,1,1
+DAS_FloorFinishing_Carpet_Flooring,F_F_C,5164.7694647337685,Fixed,0.0,1.0,0,0.9,0,1,1,1
+DAS_FloorFinishing_Laminate_Flooring,F_F_L,5164.7694647337685,Dowel,1.0,1.0,1,0.9,0,1,1,1
+DAS_FloorFinishing_CeramicTile_Flooring,F_F_CT,5164.7694647337685,Fixed,0.0,0.9,0,0.8,0,1,1,1
+DAS_Joist_Wood_Option1_Flooring,F_J_W1,2133.9300000000003,Nailed,0.2,0.9,0,0.8,0,0,1,1
+DAS_Joist_Steel_Option3_Flooring,F_J_S3,2133.9300000000003,Screwed,0.8,0.4,0,0.8,1,0,1,1
+DAS_Joist_Wood_Option2_Flooring,F_J_W2,2133.9300000000003,Nailed,0.2,0.9,0,0.8,0,0,1,1
+DAS_Joist_Wood_Option3_Flooring,F_J_W3,2133.9300000000003,Nailed,0.2,0.9,0,0.8,0,0,1,1
+DAS_Joist_Steel_Option2_Flooring,F_J_S2,2133.9300000000003,Screwed,0.8,0.4,0,0.8,1,0,1,1
+DAS_Joist_Steel_Option1_Flooring,F_J_S1,2133.9300000000003,Screwed,0.8,0.4,0,0.8,1,0,1,1
